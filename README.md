@@ -1,6 +1,6 @@
 # WS2812 Extension
 
-For transmitting the WS2812 one-wire protocol over long distances via CAT5 Ethernet cables.
+For transmitting the WS2812 one-wire protocol over long distances via CAT5+ "Ethernet" cables.
 
 Note: Even though this uses Ethernet cables, it is NOT compatible with Ethernet.  
 **DO NOT CONNECT TO ANY NETWORK EQUIPMENT**
